@@ -1,6 +1,10 @@
 # Semiramis-station
 *https://semiramisstore.com/app*
-Warehouse management system - Built with PHP Laravel
+Warehouse management system
+# Laravel
+# Bootstrap
+# HTML
+# CSS
 -------------------
 This APP has been developed to respond to a problem being faced by our client “who has multiple warehouses spreading around the world and 3 different factories over 3 different countries” to organize his stock, shipments, orders, and link all to his online web-shops: in this app the admin can 
 - Register his information, Change his password
