@@ -33,3 +33,4 @@ This APP has been developed to respond to a problem being faced by our client â€
 --User can use the barcode reader to add products to the order
 --User can apply discount to an order
 --User can select payment method (Card or Cahs)
+
