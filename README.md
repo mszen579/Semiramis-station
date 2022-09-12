@@ -34,3 +34,7 @@ This APP has been developed to respond to a problem being faced by our client â€
 --User can apply discount to an order
 --User can select payment method (Card or Cahs)
 
+![222](https://user-images.githubusercontent.com/35220325/189675086-67ba5933-5383-4570-95e1-6415b9089311.png)
+
+
+
